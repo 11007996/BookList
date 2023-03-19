@@ -1,0 +1,5 @@
+E:\pj\BookTest\FileStream流\bin\Debug\FileStream流.exe.config
+E:\pj\BookTest\FileStream流\bin\Debug\FileStream流.exe
+E:\pj\BookTest\FileStream流\bin\Debug\FileStream流.pdb
+E:\pj\BookTest\FileStream流\obj\Debug\FileStream流.exe
+E:\pj\BookTest\FileStream流\obj\Debug\FileStream流.pdb

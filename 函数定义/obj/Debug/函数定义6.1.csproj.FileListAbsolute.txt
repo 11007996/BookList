@@ -1,0 +1,6 @@
+E:\pj\BookTest\函数定义\bin\Debug\函数定义.exe.config
+E:\pj\BookTest\函数定义\bin\Debug\函数定义.exe
+E:\pj\BookTest\函数定义\bin\Debug\函数定义.pdb
+E:\pj\BookTest\函数定义\obj\Debug\函数定义6.1.csprojResolveAssemblyReference.cache
+E:\pj\BookTest\函数定义\obj\Debug\函数定义.exe
+E:\pj\BookTest\函数定义\obj\Debug\函数定义.pdb

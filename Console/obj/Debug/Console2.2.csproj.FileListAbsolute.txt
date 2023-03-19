@@ -1,0 +1,5 @@
+E:\pj\BookTest\Console\bin\Debug\Console.exe.config
+E:\pj\BookTest\Console\bin\Debug\Console.exe
+E:\pj\BookTest\Console\bin\Debug\Console.pdb
+E:\pj\BookTest\Console\obj\Debug\Console.exe
+E:\pj\BookTest\Console\obj\Debug\Console.pdb

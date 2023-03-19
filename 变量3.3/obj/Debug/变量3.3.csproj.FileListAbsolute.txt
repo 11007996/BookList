@@ -1,0 +1,5 @@
+E:\pj\BookTest\变量3.3\bin\Debug\变量3.3.exe.config
+E:\pj\BookTest\变量3.3\bin\Debug\变量3.3.exe
+E:\pj\BookTest\变量3.3\bin\Debug\变量3.3.pdb
+E:\pj\BookTest\变量3.3\obj\Debug\变量3.3.exe
+E:\pj\BookTest\变量3.3\obj\Debug\变量3.3.pdb

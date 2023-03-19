@@ -1,0 +1,6 @@
+E:\pj\BookTest\object9_1\bin\Debug\object9_1.exe.config
+E:\pj\BookTest\object9_1\bin\Debug\object9_1.exe
+E:\pj\BookTest\object9_1\bin\Debug\object9_1.pdb
+E:\pj\BookTest\object9_1\obj\Debug\object9_1.csprojResolveAssemblyReference.cache
+E:\pj\BookTest\object9_1\obj\Debug\object9_1.exe
+E:\pj\BookTest\object9_1\obj\Debug\object9_1.pdb

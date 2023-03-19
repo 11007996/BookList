@@ -1,0 +1,6 @@
+E:\pj\BookTest\string_chuli\bin\Debug\string_chuli.exe.config
+E:\pj\BookTest\string_chuli\bin\Debug\string_chuli.exe
+E:\pj\BookTest\string_chuli\bin\Debug\string_chuli.pdb
+E:\pj\BookTest\string_chuli\obj\Debug\string_chuli.csprojResolveAssemblyReference.cache
+E:\pj\BookTest\string_chuli\obj\Debug\string_chuli.exe
+E:\pj\BookTest\string_chuli\obj\Debug\string_chuli.pdb

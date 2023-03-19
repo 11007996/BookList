@@ -1,0 +1,6 @@
+E:\pj\BookTest\shuzhu5.2\bin\Debug\shuzhu5.2.exe.config
+E:\pj\BookTest\shuzhu5.2\bin\Debug\shuzhu5.2.exe
+E:\pj\BookTest\shuzhu5.2\bin\Debug\shuzhu5.2.pdb
+E:\pj\BookTest\shuzhu5.2\obj\Debug\shuzhu5.2.csprojResolveAssemblyReference.cache
+E:\pj\BookTest\shuzhu5.2\obj\Debug\shuzhu5.2.exe
+E:\pj\BookTest\shuzhu5.2\obj\Debug\shuzhu5.2.pdb

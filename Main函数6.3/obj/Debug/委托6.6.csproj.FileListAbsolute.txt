@@ -1,0 +1,6 @@
+E:\pj\BookTest\Main函数6.3\bin\Debug\Main函数6.3.exe.config
+E:\pj\BookTest\Main函数6.3\obj\Debug\Main函数6.3.exe
+E:\pj\BookTest\Main函数6.3\obj\Debug\Main函数6.3.pdb
+E:\pj\BookTest\Main函数6.3\bin\Debug\Main函数6.3.exe
+E:\pj\BookTest\Main函数6.3\bin\Debug\Main函数6.3.pdb
+E:\pj\BookTest\Main函数6.3\obj\Debug\委托6.6.csprojResolveAssemblyReference.cache

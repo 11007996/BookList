@@ -1,0 +1,6 @@
+E:\pj\BookTest\enum类型\bin\Debug\enum类型.exe.config
+E:\pj\BookTest\enum类型\bin\Debug\enum类型.exe
+E:\pj\BookTest\enum类型\bin\Debug\enum类型.pdb
+E:\pj\BookTest\enum类型\obj\Debug\enum类型.exe
+E:\pj\BookTest\enum类型\obj\Debug\enum类型.pdb
+E:\pj\BookTest\enum类型\obj\Debug\enum类型.csprojResolveAssemblyReference.cache

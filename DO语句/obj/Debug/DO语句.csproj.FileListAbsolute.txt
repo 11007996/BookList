@@ -1,0 +1,5 @@
+E:\pj\BookTest\DO语句\bin\Debug\DO语句.exe.config
+E:\pj\BookTest\DO语句\bin\Debug\DO语句.exe
+E:\pj\BookTest\DO语句\bin\Debug\DO语句.pdb
+E:\pj\BookTest\DO语句\obj\Debug\DO语句.exe
+E:\pj\BookTest\DO语句\obj\Debug\DO语句.pdb

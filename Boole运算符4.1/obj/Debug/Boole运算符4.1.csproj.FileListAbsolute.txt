@@ -1,0 +1,5 @@
+E:\pj\BookTest\Boole运算符4.1\bin\Debug\Boole运算符4.1.exe.config
+E:\pj\BookTest\Boole运算符4.1\bin\Debug\Boole运算符4.1.exe
+E:\pj\BookTest\Boole运算符4.1\bin\Debug\Boole运算符4.1.pdb
+E:\pj\BookTest\Boole运算符4.1\obj\Debug\Boole运算符4.1.exe
+E:\pj\BookTest\Boole运算符4.1\obj\Debug\Boole运算符4.1.pdb

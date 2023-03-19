@@ -1,0 +1,5 @@
+E:\pj\BookTest\分支4.2\bin\Debug\分支4.2.exe.config
+E:\pj\BookTest\分支4.2\bin\Debug\分支4.2.exe
+E:\pj\BookTest\分支4.2\bin\Debug\分支4.2.pdb
+E:\pj\BookTest\分支4.2\obj\Debug\分支4.2.exe
+E:\pj\BookTest\分支4.2\obj\Debug\分支4.2.pdb

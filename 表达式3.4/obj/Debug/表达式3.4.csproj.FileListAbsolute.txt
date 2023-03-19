@@ -1,0 +1,6 @@
+E:\pj\BookTest\表达式3.4\bin\Debug\表达式3.4.exe.config
+E:\pj\BookTest\表达式3.4\bin\Debug\表达式3.4.exe
+E:\pj\BookTest\表达式3.4\bin\Debug\表达式3.4.pdb
+E:\pj\BookTest\表达式3.4\obj\Debug\表达式3.4.exe
+E:\pj\BookTest\表达式3.4\obj\Debug\表达式3.4.pdb
+E:\pj\BookTest\表达式3.4\obj\Debug\表达式3.4.csprojResolveAssemblyReference.cache
